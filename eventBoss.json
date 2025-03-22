@@ -1,0 +1,11 @@
+{
+  "eventBosses": [
+    {
+      "id": "boss1",
+      "name": "Boss 1",
+      "image": "boss1.png",
+      "description": "Ein mächtiger Eventboss erscheint!",
+      "difficulty": "Hard"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "villains": [
+    { "id": "villain1", "name": "Villain 1", "image": "villain1.png" },
+    { "id": "villain2", "name": "Villain 2", "image": "villain2.png" },
+    { "id": "villain3", "name": "Villain 3", "image": "villain3.png" },
+    { "id": "villain4", "name": "Villain 4", "image": "villain4.png" },
+    { "id": "villain5", "name": "Villain 5", "image": "villain5.png" },
+    { "id": "villain6", "name": "Villain 6", "image": "villain6.png" },
+    { "id": "villain7", "name": "Villain 7", "image": "villain7.png" },
+    { "id": "villain8", "name": "Villain 8", "image": "villain8.png" },
+    { "id": "villain9", "name": "Villain 9", "image": "villain9.png" },
+    { "id": "villain10", "name": "Villain 10", "image": "villain10.png" },
+    { "id": "villain11", "name": "Villain 11", "image": "villain11.png" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "backgrounds": [
+    { "id": "background1", "name": "Background 1", "image": "background1.png" },
+    { "id": "background2", "name": "Background 2", "image": "background2.png" },
+    { "id": "background3", "name": "Background 3", "image": "background3.png" },
+    { "id": "background4", "name": "Background 4", "image": "background4.png" },
+    { "id": "background5", "name": "Background 5", "image": "background5.png" },
+    { "id": "background6", "name": "Background 6", "image": "background6.png" },
+    { "id": "background7", "name": "Background 7", "image": "background7.png" },
+    { "id": "background8", "name": "Background 8", "image": "background8.png" },
+    { "id": "background9", "name": "Background 9", "image": "background9.png" },
+    {
+      "id": "background10",
+      "name": "Background 10",
+      "image": "background10.png"
+    }
+  ]
+}
